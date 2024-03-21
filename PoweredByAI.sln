@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPoweredByAI.Server", "ReactPoweredByAI.Server\ReactPoweredByAI.Server.csproj", "{86D9FA06-84A3-4994-B549-422293FCE20D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactpoweredbyai.client", "reactpoweredbyai.client\reactpoweredbyai.client.esproj", "{CACB2EE0-A780-423F-83F2-6A508E66FBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D9FA06-84A3-4994-B549-422293FCE20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D9FA06-84A3-4994-B549-422293FCE20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D9FA06-84A3-4994-B549-422293FCE20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D9FA06-84A3-4994-B549-422293FCE20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACB2EE0-A780-423F-83F2-6A508E66FBCB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524A3C9D-D811-47AD-938A-796A70FCE0CB}
+	EndGlobalSection
+EndGlobal

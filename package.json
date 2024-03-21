@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-country-region-selector": "^3.6.1",
+    "react-select-country-list": "^2.2.3"
+  }
+}
